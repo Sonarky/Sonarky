@@ -3,7 +3,7 @@
  
 ## 
 <section>
-    <a href="https://github.com/Sonark">
+    <a href="https://github.com/Sonarky">
   <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="IMG/HTML.svg">
   <img align="center" alt="CSS" height="30" width="40" src="IMG/CSS.svg">
