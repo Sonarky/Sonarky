@@ -2,7 +2,16 @@
  <strong><i>Web Desenvolvedor Front-end </i></strong>
  
 ## 
+<section>
+    <a href="https://github.com/Sonark">
+  <div style="display: inline_block">
+  <img align="center" alt="HTML" height="30" width="40" src="IMG/HTML.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="IMG/CSS.svg">
+  <img align="center" alt="Sass" height="42" width="42" src="IMG/Sass.png">
+  <img align="center" alt="Bootstrap" height="" width="44" src="IMG/boott.svg">
+   <img align="center" alt="JS" height="30" width="41" src="IMG/JS.svg">
 
+</section>
 <section>
   </br>
   <a href="https://github.com/Sonarky">
