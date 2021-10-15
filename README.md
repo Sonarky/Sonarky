@@ -24,6 +24,6 @@
   <a href = "https://www.behance.net/victorguilhermearts"><img src="https://img.shields.io/badge/-Behance-%23375?style=for-the-badge&logo=behance&logoColor=pink" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Facebook-110099?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/victor__artes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <img alt="Alex" src="IMG/vilex.png">
+<!-- <img alt="Alex" src="IMG/vilex.png"> -->
 
 </section>
