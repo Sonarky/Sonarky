@@ -16,4 +16,3 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Facebook-110099?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/victor__artes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </section>
-
