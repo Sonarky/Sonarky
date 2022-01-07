@@ -1,28 +1,26 @@
- ### <strong>Olá eu sou Victor  👋</strong> 
- <strong><i>Web Desenvolvedor Front-end </i></strong>
- 
-## 
-<section>
-    <a href="https://github.com/Sonarky">
-  <div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="IMG/HTML.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="IMG/CSS.svg">
-  <img align="center" alt="Sass" height="42" width="42" src="IMG/Sass.png">
-  <img align="center" alt="Bootstrap" height="" width="44" src="IMG/boott.svg">
-   <img align="center" alt="JS" height="30" width="41" src="IMG/JS.svg">
-
-</section>
-<section>
-  </br>
+## Olá eu sou Victor, Web Desenvolvedor Front-end!
+<div align="center">
   <a href="https://github.com/Sonarky">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Sonarky&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamloey&layout=compact&langs_count=7&theme=github_dark"/>
-  <img height="286em"  src="https://activity-graph.herokuapp.com/graph?username=Sonarky&theme=react-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sonarky&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vue" height="30" width="40" src="https://vuejs.org/images/logo.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
+  ##
+
+
 </section>
 <section> 
  <a href="https://www.linkedin.com/in/victorguilhermearts/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://www.behance.net/victorguilhermearts"><img src="https://img.shields.io/badge/-Behance-%23375?style=for-the-badge&logo=behance&logoColor=pink" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Facebook-110099?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/victor__artes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<!-- <img alt="Alex" src="IMG/vilex.png"> -->
 </section> 
